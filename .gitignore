@@ -1,0 +1,9 @@
+build
+node_modules
+public
+src
+.vscode
+
+package*.json
+npm-debug.log
+tsconfig.json
